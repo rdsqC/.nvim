@@ -1,0 +1,2 @@
+# .nvim
+neovim plugin settings
